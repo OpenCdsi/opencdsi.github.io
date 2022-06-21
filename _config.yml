@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Open CDSi
 description: Open-sourced immunization decision support system based on the CDC CDSi Logic Spec.
+logo: /logo.png
