@@ -9,7 +9,10 @@ the [CDSi Data Browser](https://opencdsi.org/api/).
 
 The [api](https://github.com/opencdsi/api) project exposes the
 data objects provided by the [CDC](https://www.cdc.gov/vaccines/programs/iis/cdsi.html)
-as JSON over a REST-ish interface. Your application can access these endpoints:
+as JSON over a REST-ish interface.
+For a more pleasent browsing experience, try the  [JSONView](https://JSONView.com) extension.
+
+Your application can access these endpoints:
 
 
 * /api/antigens
