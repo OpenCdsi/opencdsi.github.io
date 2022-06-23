@@ -14,6 +14,12 @@ itself can be part of an *electron health records* (EHR) system. It's purpose is
 evaluate a patients immunization histroy and then forecast the next vaccine doses
 required for a patient to achieve immunity to the covered antigens.
 
+There are many IIS implementations in operation at state government agencies,
+hospitals, and clinics. The implementations tend to be proprietary products that
+are licenseable for a fee or, in some cases, free of charge.  **Open CDSi** is 
+an attempt to make an open-source, easily updated, and portable immunization decision
+support system.
+
 ## What About WorldVax?
 
 Way back in 2015 or so my friend and I started [worldvax.org](http://worldvax.org) as
