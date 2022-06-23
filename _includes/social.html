@@ -1,26 +1,24 @@
 
-<ul class="view">
 {% if site.email %}
-<li><a href="mailto:{{ site.email }}">{{ site.email}} </a></li>
+<p class="view"><a href="mailto:{{ site.email }}">{{ site.email}} </a></p>
 {% endif %}
 
 {% if site.gmail %}
-<li><a href="mailto:{{ site.gmail }}@gmail.com">{{ site.gmail}} @ gmail </a></li>
+<p class="view"><a href="mailto:{{ site.gmail }}@gmail.com">{{ site.gmail}} @ gmail </a></p>
 {% endif %}
 
 {% if site.github.is_project_page %}
-<li><a href="{{ site.github.repository_url }}">{{ site.github.repository_nwo }} @ github</a></li>
+<p class="view"><a href="{{ site.github.repository_url }}">{{ site.github.repository_nwo }} @ github</a></p>
 {% endif %}
 
 {% if site.github.is_user_page %}
-<li><a href="{{ site.github.owner_url }}">{{ site.github.repository_name}} @ github</a></li>
+<p class="view"><a href="{{ site.github.owner_url }}">{{ site.github.repository_name}} @ github</a></p>
 {% endif %}
 
 {% if site.facebook %}
-<li><a href="https://facebook.com/{{ site.facebook }}">{{ site.facebook}} @ facebook </a></li>
+<p class="view"><a href="https://facebook.com/{{ site.facebook }}">{{ site.facebook}} @ facebook </a></p>
 {% endif %}
 
 {% if site.twitter %}
-<li><a href="https://twitter.com/{{ site.twitter }}">{{ site.twitter}} @ twitter </a></li>
+<p class="view"><a href="https://twitter.com/{{ site.twitter }}">{{ site.twitter}} @ twitter </a></p>
 {% endif %}
-</ul>
