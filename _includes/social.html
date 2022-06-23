@@ -1,18 +1,18 @@
 
-{% if site.github.is_project_page %}
-<p class="view"><a href="{{ site.github.repository_url }}">{{ site.github.repository_nwo }} @ github</a></p>
-{% endif %}
-
-{% if site.github.is_user_page %}
-<p class="view"><a href="{{ site.github.owner_url }}">{{ site.github.repository_name}} @ github</a></p>
-{% endif %}
-
 {% if site.email %}
 <p class="view"><a href="mailto:{{ site.email }}">{{ site.email}} </a></p>
 {% endif %}
 
 {% if site.gmail %}
 <p class="view"><a href="mailto:{{ site.gmail }}@gmail.com">{{ site.gmail}} @ gmail </a></p>
+{% endif %}
+
+{% if site.github.is_project_page %}
+<p class="view"><a href="{{ site.github.repository_url }}">{{ site.github.repository_nwo }} @ github</a></p>
+{% endif %}
+
+{% if site.github.is_user_page %}
+<p class="view"><a href="{{ site.github.owner_url }}">{{ site.github.repository_name}} @ github</a></p>
 {% endif %}
 
 {% if site.facebook %}
