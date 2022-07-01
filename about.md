@@ -1,7 +1,7 @@
 ---
-title: The Open CDSi FAQ
-layout: post
-author: Dennis Dunn <ansofive@gmail.com>
+title: About
+layout: page
+permalink: /about
 ---
 
 The goal of the project is to create clinical decision support software for 

@@ -1,11 +1,11 @@
 ---
-title: The Open CDSi API
+title: The OpenCDSi API
 layout: post
 author: Dennis Dunn <ansofive@gmail.com>
 ---
 
 Now you can browse the CDSi supporting data and defined testcases at
-the [CDSi Data Browser](https://opencdsi.org/api/).
+the [CDSi Browser](https://opencdsi.org/api/).
 
 The [api](https://github.com/opencdsi/api) project exposes the
 data objects provided by the [CDC](https://www.cdc.gov/vaccines/programs/iis/cdsi.html)
