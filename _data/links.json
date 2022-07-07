@@ -1,5 +1,7 @@
 [
   { "title":"Browser",
    "url":"https://opencdsi.org/api"
-  }
+  },
+  {"title":"CDSi Logic Spec",
+   "url":"https://www.cdc.gov/vaccines/programs/iis/cdsi.html"
 ]
