@@ -1,7 +1,10 @@
 [
-  { "title":"Browser",
-   "url":"https://opencdsi.org/api"
+  { 
+    "title":"Browser",
+    "url":"https://opencdsi.org/api"
   },
-  {"title":"CDSi Logic Spec",
-   "url":"https://www.cdc.gov/vaccines/programs/iis/cdsi.html"
+  {
+    "title":"CDSi Logic Spec",
+    "url":"https://www.cdc.gov/vaccines/programs/iis/cdsi.html"
+  }
 ]
