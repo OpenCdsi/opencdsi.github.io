@@ -10,12 +10,12 @@ immunizations based on the [CDSi Logic Spec](https://www.cdc.gov/vaccines/progra
 ## Why Open CDSi?
 
 CDSi software is part of an *immunization information system* (IIS) which
-itself can be part of an *electron health records* (EHR) system. It's purpose is to
+itself can be part of an *electronic health records* (EHR) system. It's purpose is to
 evaluate a patients immunization histroy and then forecast the next vaccine doses
 required for a patient to achieve immunity to the covered antigens.
 
 There are many IIS implementations in operation at state government agencies,
-hospitals, and clinics. The implementations tend to be proprietary products that
+hospitals, and clinics. These implementations tend to be proprietary products that
 are licenseable for a fee or, in some cases, free of charge.  **Open CDSi** is 
 an attempt to make an open-source, easily updated, and portable immunization decision
 support system.
@@ -24,19 +24,19 @@ support system.
 
 Way back in 2013  my friend [Jeff Miller](mailto:xagronaut@gmail.com) and I started [worldvax.org](http://worldvax.org) as
 an open-source humanitarian project to bring modern immunization tracking technology
-to underserved communities. We gave talks, did a podcast, had a simple demo app but
+to underserved communities. We gave talks, did a podcast and had a simple demo app but
 we never really got the traction we needed to make **WorldVax** take off.
 
 When Jeff and I put the **WorldVax** project on the backburner, Jeff gave a talk at [Stir Trek 2017](https://stirtrek.com). The 
 talk was titled *Reach the Rest - An OpenSource Journey* and was about what we learned from the project. I've got his 
-[speaker notes](/assets/20170425-ReachTheRestAnOpenSourceJourney-StirTrek.pdf) but if anybody had a video of his talk I'd love to see it!
+[speaker notes](/assets/20170425-ReachTheRestAnOpenSourceJourney-StirTrek.pdf) but if anybody has a video of his talk I'd love to see it!
 
 **Open CDSi** is the nuts-and-bolts of the **WorldVax** vision. This is the technology
 that will let us *Reach The Rest*. To help achieve that goal, the **Open CDSi** project was created on June 20th, 2022 when the domain name [opencdsi.org](https://opencdse.org) was registered. 
 
 ## Who's Involved?
 
-Currently I am the only person involved in this project. Here's my digits:
+Currently I am the only person involved in this project. Here are my digits:
 
 * Open CDSi as [dennis](mailto:dennis@opencdsi.org)
 * Gmail as [ansofive](mailto:ansofive@gmail.com)
