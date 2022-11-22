@@ -2,7 +2,7 @@
 layout: home
 ---
 
-The goal of the project is to create clinical decision support software for 
+The goal of the  **Open CDSi** project is to create clinical decision support software for 
 immunizations based on the [CDSi Logic Spec](https://www.cdc.gov/vaccines/programs/iis/cdsi.html) developed by the [Centers for Disease Control](https://www.cdc.gov/).
 
 ## Why Open CDSi?
