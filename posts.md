@@ -1,5 +1,5 @@
 ---
-title: Notes from the Developers
+title: Blog
 layout: home
 permalink: /posts/
 ---

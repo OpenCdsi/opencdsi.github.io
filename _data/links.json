@@ -1,9 +1,5 @@
 [
   { 
-    "title":"Posts",
-    "url":"https://opencdsi.org/posts"
-  },
-  { 
     "title":"Browser",
     "url":"https://opencdsi.org/api"
   }
