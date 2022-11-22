@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 The goal of the  **Open CDSi** project is to create clinical decision support software for 
