@@ -16,6 +16,7 @@ but more akin to an architechtural sketch. To be more than that it needs picture
 I took the **Figure 6.1 Evaluation Process Model** and unrolled it into a flow
 chart. Enlightenment comes in many forms.
 
-![Fig 6.1 Flowchart](/assets/evaluation-process-model.png)
+![alt text](/assets/evaluation-process-model.png "Fig 6.1 Flowchart")
+
 ### Resources
 - [Draw.io](https://app.diagrams.net/)
