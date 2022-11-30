@@ -14,7 +14,7 @@ and I've come to understand that it isn't a blueprint for a software system
 but more akin to an architechtural sketch. To be more than that it needs pictures.
 
 I took the **Figure 6.1 Evaluation Process Model** and unrolled it into a flow
-chart. Enlightenment come in many forms.
+chart. Enlightenment comes in many forms.
 
 ![Fig 6.1 Flowchart](/assets/evaluation-process-model.png)
 ### Resources
