@@ -14,7 +14,7 @@ required for a patient to achieve immunity to the covered antigens.
 
 There are many IIS implementations in operation at state government agencies,
 hospitals, and clinics. These implementations tend to be proprietary products that
-are licenseable for a fee or, in some cases, free of charge.  **Open CDSi** is 
+are generally licenseable, some without fees.  **Open CDSi** is 
 an attempt to make an open-source, easily updated, and portable immunization decision
 support system.
 
