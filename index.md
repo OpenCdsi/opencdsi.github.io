@@ -9,8 +9,8 @@ immunizations based on the [CDSi Logic Spec](https://www.cdc.gov/vaccines/progra
 
 CDSi software is part of an *immunization information system* (IIS) which
 itself can be part of an *electronic health records* (EHR) system. It's purpose is to
-evaluate a patients immunization histroy and then forecast the next vaccine doses
-required for a patient to achieve immunity to the covered antigens.
+evaluate a patients immunization history and then forecast the next vaccine doses
+required by a patient to achieve immunity to the covered antigens.
 
 There are many IIS implementations in operation at state government agencies,
 hospitals, and clinics. These implementations tend to be proprietary products that
