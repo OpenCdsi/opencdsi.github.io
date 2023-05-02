@@ -20,17 +20,18 @@ support system.
 
 ## What About WorldVax?
 
-Way back in 2013  my friend [Jeff Miller](mailto:xagronaut@gmail.com) and I started [worldvax.org](http://worldvax.org) as
+Way back in 2013  my friend [Jeffery Miller](mailto:xagronaut+worldvax@gmail.com) and I started [worldvax.org](http://worldvax.org) as
 an open-source humanitarian project to bring modern immunization tracking technology
 to underserved communities. We gave talks, did a podcast and had a simple demo app but
 we never really got the traction we needed to make **WorldVax** take off.
 
-When Jeff and I put the **WorldVax** project on the backburner, Jeff gave a talk at [Stir Trek 2017](https://stirtrek.com). The 
+When we put the **WorldVax** project on the backburner, he gave a talk at [Stir Trek 2017](https://stirtrek.com). The 
 talk was titled *Reach the Rest - An OpenSource Journey* and was about what we learned from the project. I've got his 
 [speaker notes](/assets/20170425-ReachTheRestAnOpenSourceJourney-StirTrek.pdf) but if anybody has a video of his talk I'd love to see it!
 
 **Open CDSi** is the nuts-and-bolts of the **WorldVax** vision. This is the technology
-that will let us *Reach The Rest*. To help achieve that goal, the **Open CDSi** project was created on June 20th, 2022 when the domain name [opencdsi.org](https://opencdse.org) was registered. 
+that will let us *Reach The Rest*. To help achieve that goal, the **Open CDSi** project was 
+created on June 20th, 2022 when the domain name [opencdsi.org](https://opencdse.org) was registered. 
 
 ## Who's Involved?
 
