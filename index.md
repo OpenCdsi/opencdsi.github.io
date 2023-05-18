@@ -20,7 +20,7 @@ support system.
 
 ## What About WorldVax?
 
-Way back in 2013  my friend [Jeffery Miller](mailto:xagronaut+worldvax@gmail.com) and I started [worldvax.org](http://worldvax.org) as
+Way back in 2013  my friend [Jeffrey Miller](mailto:xagronaut+worldvax@gmail.com) and I started [worldvax.org](http://worldvax.org) as
 an open-source humanitarian project to bring modern immunization tracking technology
 to underserved communities. We gave talks, did a podcast and had a simple demo app but
 we never really got the traction we needed to make **WorldVax** take off.
