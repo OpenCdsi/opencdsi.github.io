@@ -1,6 +1,7 @@
 ---
+title: Your_Title_Here
 layout: post
-title:  "<your title here>"
+author: Dennis Dunn <ansofive@gmail.com>
 ---
 
 
