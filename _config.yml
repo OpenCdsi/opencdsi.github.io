@@ -1,6 +1,6 @@
 theme: minima
 title: OpenCDSi
 description: Open-sourced immunization decision support system based on the CDC CDSi Logic Spec.
-logo: /assets/img/logo.png
+logo: /assets/img/new-logo.svg
 email: info@opencdsi.org
 github_username:  opencdsi
