@@ -17,6 +17,11 @@ layout: default
             {{ site.description }}
           </h2>
         </div>
+        <div class="buttons mt-5">
+    <!-- <a class="button is-brand-orange is-medium">Explore Documentation</a> -->
+    <a href="https://github.com/opencdsi" target="_blank" class="button is-outlined is-white is-medium">GitHub Repository</a>
+</div>
+
         <div class="column is-5 has-text-centered">
           <!-- Decorative Visual Placeholder -->
             <img src="/assets/img/logo.svg" width="250" height="250">
