@@ -54,36 +54,11 @@ layout: default
       <!-- Contact Form Column -->
       <div id="contact" class="column is-5 is-offset-1">
         <div class="box p-5">
-          <h2 class="title is-4 text-blue mb-4">Contact Me</h2>
+          <h2 class="title is-4 text-blue mb-4">Contact Us</h2>
             {%- if site.email -%}
             <li><a class="" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
-          <!-- <form>
-            <div class="field">
-              <label class="label">Name</label>
-              <div class="control">
-                <input class="input" type="text" placeholder="Your Name">
-              </div>
-            </div>
-
-            <div class="field">
-              <label class="label">Email</label>
-              <div class="control">
-                <input class="input" type="email" placeholder="name@organization.org">
-              </div>
-            </div>
-
-            <div class="field">
-              <label class="label">Message</label>
-              <div class="control">
-                <textarea class="textarea" rows="3" placeholder="How can we help?"></textarea>
-              </div>
-            </div>
-
-            <div class="field">
-              <button class="button is-brand-orange is-fullwidth">Send Message</button>
-            </div>
-          </form> -->
+         
         </div>
       </div>
 
