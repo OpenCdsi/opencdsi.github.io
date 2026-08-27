@@ -1,33 +1,33 @@
-<footer class="site-footer h-card">
-    <data class="u-url" href="{{ "/" | relative_url }}"></data>
-  
-    <div class="wrapper">
-  
-      <div class="footer-col-wrapper">
-        <div class="footer-col footer-col-1">
-          <ul class="contact-list">
-            <li class="p-name">
-              {%- if site.author -%}
-                {{ site.author | escape }}
-              {%- else -%}
-                {{ site.title | escape }}
-              {%- endif -%}
-              </li>
-              {%- if site.email -%}
-              <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-              {%- endif -%}
-          </ul>
+
+  <!-- FOOTER -->
+  <footer class="footer footer-custom py-6">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-6">
+          <p class="title is-4 has-text-white"><a href="/">{{ site.title }}</a></p>
+          <p class="subtitle is-6 has-text-grey-light">
+            {{ site.tagline }}
+          </p>
         </div>
-  
-        <div class="footer-col footer-col-2">
-          {%- include social.html -%}
-        </div>
-  
-        <div class="footer-col footer-col-3">
-          <p>{{- site.description | escape -}}</p>
+        <div class="column is-6 has-text-right-tablet">
+          <p>&copy; 2026 {{ site.author | site.email }} All rights reserved.</p>
+          <p class="is-size-7 mt-2">Released under the Mozilla Public License 2.0</p>
         </div>
       </div>
-  
     </div>
-  
   </footer>
+
+  <!-- Navbar Toggle Script -->
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+      $navbarBurgers.forEach( el => {
+        el.addEventListener('click', () => {
+          const target = el.dataset.target;
+          const $target = document.getElementById(target);
+          el.classList.toggle('is-active');
+          $target.classList.toggle('is-active');
+        });
+      });
+    });
+  </script>

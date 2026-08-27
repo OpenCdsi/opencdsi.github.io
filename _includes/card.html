@@ -1,0 +1,11 @@
+<div class="column is-6">
+    <div class="card card-custom">
+        <div class="card-content">
+            <span class="icon is-large text-purple mb-3"><i class="fas {{ card.icon }} fa-2x"></i></span>
+            <p class="title is-4">{{ card.title | escape }}</p>
+            <p class="subtitle is-6 has-text-grey mt-2">
+                {{ card.content | markdownify }}
+            </p>
+        </div>
+    </div>
+</div>
