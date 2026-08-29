@@ -25,7 +25,7 @@ layout: default
 
         <div class="column is-5 has-text-centered">
           <!-- Decorative Visual Placeholder -->
-            <img src="/assets/img/logo.svg" width="250" height="250">
+            <img src="/assets/img/dark-logo.svg" width="250" height="250">
         </div>
       </div>
     </div>
