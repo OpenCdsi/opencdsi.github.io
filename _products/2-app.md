@@ -9,6 +9,6 @@ OpenCdsi.VaxEngine in a .NET MAUI application.
     <a href="https://github.com/opencdsi/Opencdsi.Mobile" target="_blank" class="button is-brand-orange  is-medium">GitHub Repository</a>
 </div>
 <div class="buttons mt-5">
-    <a href="/mobile" class="button is-outlined is-small">Download the APK</a>
+    <a href="/mobile" class="button is-text pl-0 text-purple">Download the APK &rarr;</a>
 </div>
 
