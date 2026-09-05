@@ -16,9 +16,6 @@ layout: default
           <h2 class="subtitle is-4 has-text-grey-light mt-3">
             {{ site.description }}
           </h2>
-          <!-- <div class="buttons mt-5">
-            <a href="https://github.com/opencdsi" target="_blank" class="button is-outlined is-white is-medium">GitHub Repository</a>
-          </div> -->
         </div>
 
 
