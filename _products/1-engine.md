@@ -6,5 +6,5 @@ The VaxEngine was developed against the *Logic Spec for AICP Recommendations v4.
 v4.46* corpus.
 
 <div class="buttons mt-5">
-    <a href="https://github.com/OpenCdsi/VaxEngine" target="_blank" class="button is-orange is-medium">GitHub Repository</a>
+    <a href="https://github.com/OpenCdsi/VaxEngine" target="_blank" class="button is-brand-orange is-medium">GitHub Repository</a>
 </div>
