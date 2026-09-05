@@ -1,7 +1,11 @@
+<!-- Bulma CSS CDN -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+<!-- FontAwesome Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<!-- Custom Styles -->
+<link rel="stylesheet" href="/assets/css/main.css">
 
-  <!-- Bulma CSS CDN -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
-  <!-- FontAwesome Icons -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-  <!-- Custom Styles -->
-  <link rel="stylesheet" href="/assets/css/main.css">
+<!-- Custom Scripts -->
+{%- if page.source -%}
+  <meta http-equiv="refresh" content="1;url={{ page.source | absolute_url }}">
+{%- endif -%}
