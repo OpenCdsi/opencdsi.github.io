@@ -6,5 +6,5 @@ source: https://github.com/OpenCdsi/OpenCdsi.Mobile/releases/latest/download/com
 
 Your download will begin automatically in a moment. 
 
-If it
+If the download
 does not start, use this [direct link.]({{ page.source }})
