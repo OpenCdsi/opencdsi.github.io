@@ -1,5 +1,5 @@
 ---
-title: OpenCdsi VaxEngine
+title: VaxEngine
 icon: fa-code-branch
 ---
 The VaxEngine was developed against the *Logic Spec for AICP Recommendations v4.6*. It has an 83% passing rate  against the 1064 conformances tests in the *Healthy Childhood and Adult
