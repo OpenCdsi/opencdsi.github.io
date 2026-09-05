@@ -7,6 +7,5 @@ tested for conformance against the 1064 tests in the *Healthy Childhood and Adul
 v4.46* corpus.
 
 <div class="buttons mt-5">
-    <!-- <a class="button is-brand-orange is-medium">Explore Documentation</a> -->
-    <a href="https://github.com/opencdsi" target="_blank" class="button is-brand-orange is-medium">GitHub Repository</a>
+    <a href="https://github.com/opencdsi/vaxengine" target="_blank" class="button is-outlined is-white  is-medium">GitHub Repository</a>
 </div>

@@ -32,7 +32,7 @@ twitter_username: opencdsi
 github_username:  opencdsi
 
 # Render settings
-show_products: false
+show_products: true
 
 # Build settings
 theme: 
