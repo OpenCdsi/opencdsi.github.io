@@ -1,0 +1,12 @@
+app-win-x64:
+  title: "OpenCdsi.Mobile (Portable x64)"
+  url: "https://github.com/OpenCdsi/OpenCdsi.Mobile/releases/latest/download/opencdsi-mobile-win-x64.zip"
+  description: "Portable desktop application for Windows x64."
+app-win-arm64:
+  title: "OpenCdsi.Mobile (Portable ARM64)"
+  url: "https://github.com/OpenCdsi/OpenCdsi.Mobile/releases/latest/download/Oopencdsi-mobile-win-arm64.zip"
+  description: "Portable desktop application for Windows ARM64."
+app-android-16:
+  title: "OpenCdsi.Mobile (Installer)"
+  url: "https://github.com/OpenCdsi/OpenCdsi.Mobile/releases/latest/download/com.opencdsi.mobile-Signed.apk"
+  description: "Standard mobile installer for Android 16."

@@ -6,6 +6,6 @@
 <link rel="stylesheet" href="/assets/css/main.css">
 
 <!-- Custom Scripts -->
-{%- if page.source -%}
-  <meta http-equiv="refresh" content="1;url={{ page.source | absolute_url }}">
+{%- if page.custom_head -%}
+ {{ page.custom_head }}
 {%- endif -%}
