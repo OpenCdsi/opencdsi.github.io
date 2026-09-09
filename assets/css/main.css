@@ -55,3 +55,7 @@
   .footer-custom a:hover {
       color: var(--brand-orange);
   }
+
+  dd {
+    margin-bottom: 0.5rem;
+  }
