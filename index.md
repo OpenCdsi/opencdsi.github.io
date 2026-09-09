@@ -16,6 +16,11 @@ layout: default
           <h2 class="subtitle is-4 has-text-grey-light mt-3">
             {{ site.description }}
           </h2>
+
+<div class="buttons mt-5">
+    <a href="https://github.com/OpenCdsi/Platform.git" target="_blank" class="button is-brand-orange is-medium">GitHub Repository</a>
+</div>
+
         </div>
 
 
