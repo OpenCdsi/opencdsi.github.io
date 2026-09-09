@@ -56,6 +56,6 @@
       color: var(--brand-orange);
   }
 
-  dd {
+  .content dd {
     margin-bottom: 0.5rem;
   }
