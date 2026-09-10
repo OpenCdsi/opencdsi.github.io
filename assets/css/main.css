@@ -60,8 +60,8 @@
     margin-bottom: 0.5rem;
   }
 
-  .button .is-small .is-outlined {
-    border: 1px solid var(--brand-blue);
+  .button.is-small.is-outlined {
+    border: 1px solid var(--brand-purple);
     border-radius: 5px;
-    color: var(--brand-blue);
+    color: var(--brand-purple);
   }
