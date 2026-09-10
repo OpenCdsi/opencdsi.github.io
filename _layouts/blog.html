@@ -23,7 +23,7 @@ layout: page
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        <span class="post-meta">{{ post.date | date: "%B %d, %Y" }}</span>
+        <span class="is-size-6">{{ post.date | date: "%D/%M/%Y" }}</span>
         </h4>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
