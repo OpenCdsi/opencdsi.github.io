@@ -50,7 +50,7 @@ layout: default
 {% include summary.html %}
 </article>
 {% endfor %}
-        <a href="/posts/" class="button is-text pl-0 text-purple">View All Blog Posts &rarr;</a>
+        <a href="/blog/" class="button is-text pl-0 text-purple">View All Blog Posts &rarr;</a>
       </div>
 
       <!-- Contact Form Column -->
