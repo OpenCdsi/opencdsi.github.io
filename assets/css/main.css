@@ -59,3 +59,9 @@
   .content dd {
     margin-bottom: 0.5rem;
   }
+
+  .button .is-small .is-outlined {
+    border: 1px solid var(--brand-blue);
+    border-radius: 5px;
+    color: var(--brand-blue);
+  }

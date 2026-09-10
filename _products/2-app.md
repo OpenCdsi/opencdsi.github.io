@@ -7,11 +7,11 @@ OpenCdsi.VaxEngine in a .NET MAUI application.
 
 
 <div class="buttons mt-5">
- <a class="button text-purple is-small is-outlined is-rounded" href="https://github.com/OpenCdsi/Platform/releases/latest/download/opencdsi-mobile-win-x64.zip">Portable Win x64</a>
+ <a class="button is-small is-outlined" href="https://github.com/OpenCdsi/Platform/releases/latest/download/opencdsi-mobile-win-x64.zip">Portable Win x64</a>
 
- <a class="button text-purple is-small is-outlined is-rounded"  href="https://github.com/OpenCdsi/Platform/releases/latest/download/opencdsi-mobile-win-arm64.zip">Portable Win ARM64</a>
+ <a class="button is-small is-outlined"  href="https://github.com/OpenCdsi/Platform/releases/latest/download/opencdsi-mobile-win-arm64.zip">Portable Win ARM64</a>
  
- <a class="button text-purple is-small is-outlined is-rounded"  href="https://github.com/OpenCdsi/Platform/releases/latest/download/com.opencdsi.mobile-Signed.apk">Android 16 APK</a>
+ <a class="button is-small is-outlined"  href="https://github.com/OpenCdsi/Platform/releases/latest/download/com.opencdsi.mobile-Signed.apk">Android 16 APK</a>
 
 </div>
 
