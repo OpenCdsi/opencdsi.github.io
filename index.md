@@ -45,11 +45,11 @@ layout: default
       <!-- Blog Teaser Column -->
       <div class="column is-6">
         <h2 class="title is-3 text-blue mb-5">Latest News</h2>
-        
 {% for post in site.posts limit:2 %}
+<article class="media mb-4">
 {% include summary.html %}
+</article>
 {% endfor %}
-        
         <a href="/posts/" class="button is-text pl-0 text-purple">View All Blog Posts &rarr;</a>
       </div>
 
