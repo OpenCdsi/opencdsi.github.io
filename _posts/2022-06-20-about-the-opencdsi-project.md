@@ -1,7 +1,8 @@
 ---
 title: About the OpenCdsi Project
-layout: page
+layout: post
 permalink: /about
+tags: pinned
 ---
 
 The goal of the project is to create clinical decision support software for 
