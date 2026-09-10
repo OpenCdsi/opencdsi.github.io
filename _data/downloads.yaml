@@ -5,9 +5,9 @@ app-android-16:
   description: "Standard mobile installer for Android 16."
 app-win-x64:
   title: "Windows x64 MSI"
-  url: "https://github.com/OpenCdsi/Platform/releases/latest/download/opencdsi-mobile-win-x64.msi"
+  url: "https://github.com/OpenCdsi/Platform/releases/latest/download/opencdsi-mobile-x64.msi"
   description: "Portable desktop application for Windows x64."
 app-win-arm64:
   title: "Windows ARM64 MSI"
-  url: "https://github.com/OpenCdsi/Platform/releases/latest/download/opencdsi-mobile-win-arm64.msi"
+  url: "https://github.com/OpenCdsi/Platform/releases/latest/download/opencdsi-mobile-arm64.msi"
   description: "Portable desktop application for Windows ARM64."
