@@ -11,7 +11,7 @@ app-win-arm64:
   title: "Win11 ARM64 MSI"
   url: "https://github.com/OpenCdsi/Platform/releases/latest/download/opencdsi-mobile-arm64.msix"
   description: "Portable desktop application for Windows ARM64."
-app-win-arm64:
+app-cert:
   title: "OpenCdsi Cert"
   url: "https://github.com/OpenCdsi/Platform/releases/latest/download/opencdsi-mobile-signing-cert.cer"
   description: "Self-signed certificate for OpenCdsi Mobile. This is used to verify the authenticity of the application on Windows."
