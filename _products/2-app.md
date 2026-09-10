@@ -2,8 +2,8 @@
 title: Mobile App
 icon: fa-users-gear
 ---
-The mobile app runs on Android snf Windows. It illustrates how to use 
-OpenCdsi.VaxEngine.Core in a .NET MAUI application.
+The mobile app runs on Android and Windows 11. It illustrates how to use the
+OpenCdsi.VaxEngine.Core library in a .NET MAUI application.
 
 
 <div class="buttons mt-5">
