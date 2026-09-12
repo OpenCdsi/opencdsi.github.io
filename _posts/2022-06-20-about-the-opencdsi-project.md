@@ -1,8 +1,7 @@
 ---
 title: About the OpenCdsi Project
 layout: post
-permalink: /about
-tags: pinned
+author: Dennis Dunn <ansofive@gmail.com>
 ---
 
 The goal of the project is to create clinical decision support software for 
@@ -42,6 +41,14 @@ Engine](https://www.hln.com/ice/) is the reference implementation of the **Logic
 Spec** and HLN works closely with the CDC in making immunization forecasting 
 accessable and affordable for developers of immunization information systems
 and electronic health record systems.
+
+As I was working on the ClinicalReference project I realized something else:
+the *Pink Book* hasn't been updated in over 5 years. Using it as a source 
+of truth 
+for clinical decision making is hampered by not having the latest vaccines
+(COVID-19) 
+included. This is another place where **HLN** shines, they keep getting the
+most recent information and include it into **ICE**. 
 
 **OpenCdsi** isn't competing with **ICE** but we are taking inspiration
 from that project. Perhaps we'll come across something that they don't do
