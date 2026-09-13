@@ -14,12 +14,13 @@ my session limits a bunch of times, I decided to buy a Pro subscription.
 I reasoned that I'd spent hundreds of dollars on other hobbies, why
 should this one be different? It paid off.
 
-## VaxEngine
-
 The original vision for [WorldVax](https://worldvax.org) was to provide
 vaccine decision support to off-grid clinics. That required some sort
 of engine to take an immunization history and produce vaccine forecasts.
-I never got it right.
+I never got it right. With the help of an AI coding agent, *WorldVax*
+finally has the tools it was looking for.
+
+## VaxEngine
 
 VaxEngine is the core of the *WorldVax* vision. It isn't perfect but it has an
 76% pass rate on the conformance tests.
