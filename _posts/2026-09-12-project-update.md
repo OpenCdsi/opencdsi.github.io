@@ -22,7 +22,7 @@ of engine to take an immunization history and produce vaccine forecasts.
 I never got it right.
 
 VaxEngine is the core of the *WorldVax* vision. It isn't perfect but it has an
-84% pass rate on the conformance test corpus.
+76% pass rate on the conformance tests.
 
 The core of the VaxEngine is available as a nuget package from [Github](https://github.com/orgs/OpenCdsi/packages?repo_name=Platform).
 
@@ -37,7 +37,7 @@ The ClinicalReference library is available as a nuget package from [Github](http
 The VaxEngine is exposed as an RPC-ish API. In addition, the *CDSi Supporting Data* is available
 as resource-style endpoints.
 
-The API is available as a Docker images from [Github](https://github.com/orgs/OpenCdsi/packages?repo_name=Platform).
+The API is available as a Docker images from [Github](https://github.com/orgs/OpenCdsi/packages?repo_name=Platform). You can also explore it at [api.opencdsi.org](https://api.opencdsi.org/swagger/index.html).
 
 ## Mobile App
 
