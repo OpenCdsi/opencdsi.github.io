@@ -9,7 +9,7 @@ look at where we stand with the OpenCdsi project.
 If you've been following along at home, you'll notice that I've
 been using [Claude](https://claude.com/product/overview), an AI
 product of [Anthropic](https://www.anthropic.com). My first foray 
-into serious vibe codding was the VaxEngine. After I'd exhasted
+into serious vibe coding was the VaxEngine. After I'd exhasted
 my session limits a bunch of times, I decided to buy a Pro subscription.
 I reasoned that I'd spent hundreds of dollars on other hobbies, why
 should this one be different? It paid off.
