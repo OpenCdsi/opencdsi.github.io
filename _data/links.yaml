@@ -1,4 +1,6 @@
 - title: "Blog"
   url: "/blog/"
+- title: "API"
+  url: "https://api.opencdsi.org/swagger/index.html"
 - title: "About"
   url: "/about"
