@@ -2,6 +2,7 @@
 title: About the OpenCdsi Project
 layout: post
 author: Dennis Dunn <ansofive@gmail.com>
+permalink: /about
 ---
 
 The goal of the project is to create clinical decision support software for 
