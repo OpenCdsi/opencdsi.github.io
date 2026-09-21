@@ -23,9 +23,11 @@ email: info@opencdsi.org
 author: Dennis Dunn
 tagline: Open Clinical Decision Support for Immunizations
 description: >- # this means to ignore newlines until "baseurl:"
-  OpenCdsi is  building a transparent, open-source 
-  CDSi engine  to assist in powering the 
-  next generation of healthcare software.
+  OpenCdsi is  building a simple immunization decision support system
+  for use by off-grid clinics and itinerant health workers. It includes
+  a mobile app with forecasting capabilities and a basic immunization registry 
+  as well as vaccine guidance. These tools are also available to third-party 
+  developers via an API. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://opencdsi.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: opencdsi
