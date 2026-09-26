@@ -25,7 +25,8 @@ tagline: Open Clinical Decision Support for Immunizations
 description: >- # this means to ignore newlines until "baseurl:"
   OpenCdsi is  building a simple immunization decision support system
   for use by off-grid clinics and itinerant health workers. Its premier product is 
-  a mobile app with forecasting capabilities, a basic immunization registry 
+  VaxEngine, a vaccine forecasting tool. VaxEngine is used in the mobile app that
+  includes  a basic immunization registry 
   and vaccine guidance from the <i>Pink Book</i>. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://opencdsi.org" # the base hostname & protocol for your site, e.g. http://example.com
