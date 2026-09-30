@@ -1,0 +1,24 @@
+{% comment %}
+  Series navigation. Lists every PUBLISHED post that shares page.series,
+  ordered by the numeric "part" front matter key. Unpublished (future-dated)
+  posts never appear, so there are no dead links.
+  Usage at the bottom of a post:  {% include series.html %}
+  Required front matter: series, series_title, part
+{% endcomment %}
+{% if page.series %}
+{% assign series_posts = site.posts | where: "series", page.series | sort: "part" %}
+<nav class="series-nav">
+  <p><strong>{{ page.series_title }}</strong>: this is part {{ page.part }} of 3.</p>
+  <ul>
+    {% for p in series_posts %}
+    <li>
+      {% if p.url == page.url %}
+      <strong>Part {{ p.part }}: {{ p.title }}</strong> (you are here)
+      {% else %}
+      <a href="{{ p.url | relative_url }}">Part {{ p.part }}: {{ p.title }}</a>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</nav>
+{% endif %}
