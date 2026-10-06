@@ -10,7 +10,12 @@
           </p>
         </div>
         <div class="column is-6 has-text-right-tablet">
-          <p>&copy; 2026 {{ site.author | site.email }} All rights reserved.</p>
+          <p class="mb-2">
+            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+            &middot;
+            <a href="{{ '/feed.xml' | relative_url }}">RSS Feed</a>
+          </p>
+          <p>&copy; {{ 'now' | date: '%Y' }} {{ site.author }}. All rights reserved.</p>
           <p class="is-size-7 mt-2">Released under the Mozilla Public License 2.0</p>
         </div>
       </div>
