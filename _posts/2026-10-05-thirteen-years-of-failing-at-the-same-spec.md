@@ -23,15 +23,17 @@ The existing engine had licensing problems for us, and we both worked in the Mic
 
 Then I read the CDC's logic specification, and it looked easy. It's decision tables. If this, then that. I'd write a few ifs, and boom, done.
 
-![A page of decision tables from the CDC logic specification]({{ '/assets/images/thirteen-years/decision-tables.png' | relative_url }})
+![A page of decision tables from the CDC logic specification]({{ '/assets/images/thirteen-years/logic-spec.png' | relative_url }})
 
 It was not done.
 
 ## The graveyard
 
-![My GitHub repository list, full of attempts]({{ '/assets/images/thirteen-years/github-graveyard.png' | relative_url }})
-
 My GitHub is full of attempts. I couldn't work out how to get the data where it needed to be. I thought about writing it in Lisp, just so I could use macros. Jeffrey reminded me, "Remember, Dennis, this was designed by committee," and I laughed and failed some more.
+
+
+![My GitHub repository list, full of attempts]({{ '/assets/images/thirteen-years/graveyard.png' | relative_url }})
+
 
 The furthest I ever got was most of chapter six, and something called the conditional skip stopped me cold. My best win was the date math. When a date doesn't exist, the spec says to roll forward to the next valid date, and most libraries roll it back. I got that right, and it made me very happy. But how many times can you write the same code?
 
