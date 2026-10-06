@@ -1,7 +1,5 @@
 ---
-layout: post
 title: The Mobile App Is Live
-author: Dennis Dunn <dennis@opencdsi.org>
 ---
 
  I've added a demonstration app to the OpenCdsi project. It is an Android,

@@ -1,7 +1,5 @@
 ---
 title: API Update
-author: Dennis Dunn <ansofive@gmail.com>
-layout: post
 ---
 
 I've updated both the API endpoints and the UI for the [CDSi Browser](https://opencdsi.org/).

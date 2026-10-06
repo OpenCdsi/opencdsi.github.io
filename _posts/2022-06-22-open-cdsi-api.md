@@ -1,7 +1,5 @@
 ---
 title: The OpenCDSi API
-layout: post
-author: Dennis Dunn <ansofive@gmail.com>
 ---
 
 Now you can browse the CDSi supporting data and defined testcases at

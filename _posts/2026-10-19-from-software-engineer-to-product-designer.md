@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "From Software Engineer to Product Designer"
 date: 2026-10-19
 series: thirteen-years

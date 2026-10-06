@@ -1,7 +1,5 @@
 ---
 title: The Status of the OpenCdsi Project
-layout: post
-author: Dennis Dunn <ansofive@gmail.com>
 ---
 I've accomplished quite a bit in the past couple of weeks, let's
 look at where we stand with the OpenCdsi project.

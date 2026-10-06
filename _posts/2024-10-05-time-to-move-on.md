@@ -1,7 +1,5 @@
 ---
 title: Time To Move On
-author: Dennis Dunn <ansofive@gmail.com>
-layout: post
 ---
 
 It is with a certain level of relief that I've decided to walk away from the OpenCdsi project.

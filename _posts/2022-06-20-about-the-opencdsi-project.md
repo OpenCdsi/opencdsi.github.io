@@ -1,7 +1,5 @@
 ---
 title: About the OpenCdsi Project
-layout: post
-author: Dennis Dunn <ansofive@gmail.com>
 permalink: /about
 ---
 

@@ -1,7 +1,5 @@
 ---
 title: API Browser Changes
-author: Dennis Dunn <ansofive@gmail.com>
-layout: post
 ---
 
 I've made some changes to the API browser at https://api.opencdsi.org.

@@ -1,7 +1,5 @@
 ---
 title: And I'm Stalled Again
-layout: post
-author: Dennis Dunn <ansofive@gmail.com>
 ---
 
 After making so much progress on the evaluation code I decided to take a month off. Just not 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Thirteen Years of Failing at the Same Spec"
 date: 2026-10-05
 series: thirteen-years

@@ -1,7 +1,5 @@
 ---
 title: Evaluation Milestone Has Been Reached!
-author: Dennis Dunn <ansofive@gmail.com>
-layout: post
 ---
 
 My last post on the software front was more aspirational than reality.

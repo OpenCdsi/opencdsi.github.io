@@ -1,7 +1,5 @@
 ---
 title: OMG! Progress!!
-author: Dennis Dunn <ansofive@gmail.com>
-layout: post
 ---
 
 After 6 weeks of hacking I've actually made some progress on the vaccine evaluation code. This is more progress than I made

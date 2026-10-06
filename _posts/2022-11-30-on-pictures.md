@@ -1,7 +1,5 @@
 ---
 title: Thoughts on Diagramming
-author: Dennis Dunn <ansofive@gmail.com>
-layout: post
 ---
 
 When I was first introduced to the Logic Specification for AICP Recommendations

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Day My AI Read the Spec Better Than I Did"
 date: 2026-10-12
 series: thirteen-years

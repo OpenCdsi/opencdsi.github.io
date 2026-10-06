@@ -26,3 +26,10 @@ collections:
     output: true
 
 show_excerpts: true
+
+defaults:
+  - scope:
+      type: posts
+    values:
+      layout: post
+      author: Dennis Dunn

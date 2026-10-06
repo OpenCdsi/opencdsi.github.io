@@ -1,7 +1,5 @@
 ---
 title: OpenCdsi Has a New Website!
-layout: post
-author: Dennis Dunn <ansofive@gmail.com>
 ---
 I got tired of the old site so I built one with a little more pizzazz. Or is
 that "rizz?"
