@@ -3,12 +3,12 @@
   ordered by the numeric "part" front matter key. Unpublished (future-dated)
   posts never appear, so there are no dead links.
   Usage at the bottom of a post:  {% include series.html %}
-  Required front matter: series, series_title, part
+  Required front matter: series, series_title, part (optional: series_total)
 {% endcomment %}
 {% if page.series %}
 {% assign series_posts = site.posts | where: "series", page.series | sort: "part" %}
 <nav class="series-nav">
-  <p><strong>{{ page.series_title }}</strong>: this is part {{ page.part }} of 3.</p>
+  <p><strong>{{ page.series_title }}</strong>: this is part {{ page.part }}{% if page.series_total %} of {{ page.series_total }}{% endif %}.</p>
   <ul>
     {% for p in series_posts %}
     <li>

@@ -1,11 +1,11 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en' }}">
+{% include head.html %}
 
-    <html lang="{{ site.lang | default: " en" }}">
-    {% include head.html %}
+<body>
+    {% include header.html %}
+    {{ content }}
+    {% include footer.html %}
+</body>
 
-    <body>
-        {% include header.html %}
-        {{ content }}
-        {% include footer.html %}
-    </body>
-
-    </html>
+</html>

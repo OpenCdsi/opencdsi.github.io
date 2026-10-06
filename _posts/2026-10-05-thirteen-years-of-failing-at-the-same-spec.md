@@ -5,6 +5,7 @@ date: 2026-10-05
 series: thirteen-years
 series_title: "Thirteen Years, One Week"
 part: 1
+series_total: 3
 ---
 
 *Part 1 of 3*

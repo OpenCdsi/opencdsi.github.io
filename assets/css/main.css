@@ -65,3 +65,7 @@
     border-radius: 5px;
     color: var(--brand-purple);
   }
+
+  .card-custom p {
+    margin-bottom: 0.5rem;
+  }

@@ -5,6 +5,7 @@ date: 2026-10-12
 series: thirteen-years
 series_title: "Thirteen Years, One Week"
 part: 2
+series_total: 3
 ---
 
 *Part 2 of 3. Part 1 covered thirteen years of failing at the same spec, and the day I handed it to an AI agent as a lark.*

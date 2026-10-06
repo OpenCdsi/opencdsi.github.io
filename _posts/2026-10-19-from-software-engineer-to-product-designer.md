@@ -5,6 +5,7 @@ date: 2026-10-19
 series: thirteen-years
 series_title: "Thirteen Years, One Week"
 part: 3
+series_total: 3
 ---
 
 *Part 3 of 3. Part 1 covered the thirteen years of failing, and Part 2 covered the day the AI found what I'd missed. This one is about everything that happened after the engine worked.*

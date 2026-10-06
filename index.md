@@ -1,5 +1,4 @@
 ---
-title: {{ site.title }}
 layout: default
 ---
 
@@ -58,7 +57,7 @@ layout: default
         <div class="box p-5">
           <h2 class="title is-4 text-blue mb-4">Contact Us</h2>
             {%- if site.email -%}
-            <li><a class="" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
             {%- endif -%}
          
         </div>
